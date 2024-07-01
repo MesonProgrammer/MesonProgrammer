@@ -3,5 +3,5 @@
 - ~~Python~~
 - ~~Lua~~
 - Javascript
-- HTML
+- ~~HTML~~
 - CSS
