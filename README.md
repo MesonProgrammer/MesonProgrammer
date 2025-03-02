@@ -3,3 +3,4 @@
 - ~~Python~~
 - ~~Lua~~
 - Javascript
+- C / C++
